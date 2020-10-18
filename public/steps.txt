@@ -1,0 +1,11 @@
+Step 1: create-react-app (Creating react project)
+Step 2: importing npm react-bootstrap and bootstrap
+Step 3: add bootstrap cdn and module to index.js (reference link: https://react-bootstrap.github.io/getting-started/introduction/)
+Step 4: create Navbar.js and navbar.css
+Step 5: get reference of Navbar.js to App.js
+Step 6: Navbar code to Navbar.js
+Step 7: import npm i --save @fortawesome/fontawesome-svg-core
+               npm i --save @fortawesome/free-solid-svg-icons
+               npm i --save @fortawesome/react-fontawesome
+               reference link: https://github.com/FortAwesome/react-fontawesome
+Step 8: add icons to Navbar buttons (reference link: https://fontawesome.com/icons/chart-area?style=solid)

@@ -1,0 +1,23 @@
+.head{
+    height: 65px;
+}
+
+.navButton{
+    margin: 0 10px 0 10px;   
+    padding: 5px;
+    height: 40px;
+}
+
+
+.iconDisplay{
+    font-size: 15px;
+}
+
+a.dropdown-toggle{
+    padding: 0px;
+    color: #17a2b8;
+}
+
+a.dropdown-toggle:hover{
+    color: white;
+}
